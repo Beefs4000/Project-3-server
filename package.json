@@ -1,0 +1,29 @@
+{
+  "name": "project-3-final-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beefs4000/Project-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beefs4000/Project-3/issues"
+  },
+  "homepage": "https://github.com/Beefs4000/Project-3#readme",
+  "dependencies": {
+    "apollo-server": "^3.10.3",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.5",
+    "nodemon": "^2.0.20"
+  }
+}
